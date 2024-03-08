@@ -6,4 +6,4 @@ My skills include in Kotlin, Android, SQL, PHP, HTML/CSS, SVG, JavaScript, TypeS
 
 Other things I enjoy are listening to classical music and jazz, playing the piano and the church organ, baking, hiking and dancing quickstep.
 
-[More info](https://lutzschneider.eu)
+[More info in German](https://lutzschneider.eu)
