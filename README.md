@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an [Android and full-stack developer](https://lutzschneider.eu) and author of [Tournant](https://github.com/Zimbelstern/Tournant) and [DoReMidi](https://github.com/Zimbelstern/DoReMidi).
+I am an [Android and full-stack developer](https://lutzschneider.eu) and the author of [Tournant](https://github.com/Zimbelstern/Tournant) and [DoReMidi](https://github.com/Zimbelstern/DoReMidi).
 
 My skills include in Kotlin, Android, SQL, PHP, HTML/CSS, SVG, JavaScript, TypeScript, Python and Linux.
 
