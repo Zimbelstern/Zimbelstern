@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I work at [Passepartour](https://passepartour.de).
+I am an [Android and full-stack developer](https://lutzschneider.eu) and author of [Tournant](https://github.com/Zimbelstern/Tournant) and [DoReMidi](https://github.com/Zimbelstern/DoReMidi).
 
-In the spare time, I develop [Tournant](https://github.com/zimbelstern/Tournant).
-
-Using solely free software on desktop and mobile, I file issues on some FOSS projects every now and then.
-
-I have experience in Kotlin, Python, PHP, SQL, SVG, Webdesign & some C and Javascript.
+My skills include in Kotlin, Android, SQL, PHP, HTML/CSS, SVG, JavaScript, TypeScript, Python and Linux.
 
 Other things I enjoy are listening to classical music and jazz, playing the piano and the church organ, baking, hiking and dancing quickstep.
+
+[More info](https://lutzschneider.eu)
